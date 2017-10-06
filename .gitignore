@@ -1,0 +1,9 @@
+### IDEA Project files ###
+.idea/
+*.ipr
+*.iws
+*.iml
+
+### Java ###
+target/
+dependency-reduced-pom.xml
